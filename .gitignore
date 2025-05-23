@@ -13,5 +13,5 @@ obj/
 *.pdb
 *.cache
 *.log
-*.db
+.db
 *.sqlite
